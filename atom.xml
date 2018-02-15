@@ -1,4 +1,183 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-11T15:03:08-05:00</updated><id>http://localhost:4000/</id><title type="html">Matthew Dumas</title><subtitle>The Homepage of Matthew J Dumas</subtitle><author><name>Matthew Dumas</name></author><entry><title type="html">Resume</title><link href="http://localhost:4000/resume/2018/02/08/resume/" rel="alternate" type="text/html" title="Resume" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>http://localhost:4000/resume/2018/02/08/resume</id><content type="html" xml:base="http://localhost:4000/resume/2018/02/08/resume/">&lt;p&gt;This is my resume.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://matthewjdumas.github.io//atom.xml" rel="self" type="application/atom+xml" /><link href="https://matthewjdumas.github.io//" rel="alternate" type="text/html" /><updated>2018-02-14T23:30:01-05:00</updated><id>https://matthewjdumas.github.io//</id><title type="html">Matthew Dumas</title><subtitle>The Homepage of Matthew J Dumas</subtitle><author><name>Matthew Dumas</name></author><entry><title type="html">Tektronix TVS-645 Waveform Analyzer Interface</title><link href="https://matthewjdumas.github.io//personal%20project/vee%20student%209.3/automation/lab%20equipment/2018/02/13/tvs645/" rel="alternate" type="text/html" title="Tektronix TVS-645 Waveform Analyzer Interface" /><published>2018-02-13T00:00:00-05:00</published><updated>2018-02-13T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//personal%20project/vee%20student%209.3/automation/lab%20equipment/2018/02/13/tvs645</id><content type="html" xml:base="https://matthewjdumas.github.io//personal%20project/vee%20student%209.3/automation/lab%20equipment/2018/02/13/tvs645/">&lt;p&gt;Personal Project: Tektronix TVS-645 Waveform Analyzer Interface&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;project-name-tektronix-tvs-645-waveform-analyzer-interface&quot;&gt;Project Name: Tektronix TVS-645 Waveform Analyzer Interface&lt;/h1&gt;
+&lt;h3 id=&quot;status-inactive&quot;&gt;Status: inactive&lt;/h3&gt;
+&lt;h3 id=&quot;github-link&quot;&gt;&lt;a href=&quot;https://github.com/matthewjdumas/TektronixTVS645WaveformAnalyzerVee&quot;&gt;GitHub Link&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description:&lt;/h2&gt;
+
+&lt;p&gt; I have a TVS645 Waveform Analyzer that's a VXI card. In order to run it without the original interface (which I do not have), I needed to come up with a solution to handle all of the GPIB commands.&lt;/p&gt;
+
+&lt;p&gt;In order to get it running quickly, I utilized Vee Student 9.3, a visual programming language, like LabView, which has very good hardware compatibility.&lt;/p&gt;
+
+&lt;p&gt; The front interface is about 75% feature-complete. However, it's usable enough for me to do nearly anything I need to do. As I need other, more advanced features, I add them to the VEE. In the future, I may migrate this to LabView or C#. &lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Waveform capture&lt;/li&gt;
+  &lt;li&gt;Waveform Math&lt;/li&gt;
+  &lt;li&gt;Multiple Probe Capture&lt;/li&gt;
+  &lt;li&gt;GPIB/488.2 Command processing&lt;/li&gt;
+  &lt;li&gt;USB-to-GPIB Agilent controls&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examplesoutput-tests&quot;&gt;Examples/Output Tests&lt;/h2&gt;
+
+&lt;p&gt;[Need to add front end images and block diagram images, video too maybe]&lt;/p&gt;</content><author><name>Matthew Dumas</name></author><category term="camera" /><category term=".net" /><category term="Vee Student" /><category term="Vee Pro" /><category term="equipment" /><category term="xray" /><summary type="html">Personal Project: Tektronix TVS-645 Waveform Analyzer Interface</summary></entry><entry><title type="html">Health Improvement Initiative</title><link href="https://matthewjdumas.github.io//self%20improvement/gym/health/fitness/2018/02/13/si-gym/" rel="alternate" type="text/html" title="Health Improvement Initiative" /><published>2018-02-13T00:00:00-05:00</published><updated>2018-02-13T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//self%20improvement/gym/health/fitness/2018/02/13/si-gym</id><content type="html" xml:base="https://matthewjdumas.github.io//self%20improvement/gym/health/fitness/2018/02/13/si-gym/">&lt;p&gt;My Gym Stats&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;self-improvement-gym-routine&quot;&gt;Self-Improvement: Gym Routine&lt;/h1&gt;
+&lt;h3 id=&quot;status-active&quot;&gt;Status: Active&lt;/h3&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description:&lt;/h2&gt;
+
+&lt;p&gt; I'm actively trying to be better than I was yesterday. For that reason I've taken up a gym routine with the end goal of losing weight and building some muscle.&lt;/p&gt;
+
+&lt;p&gt; Since Feb 2017, I've been attempting to lose weight, and I systematically experimented with different foods/meal plans to get to the best possible results for me. Those results continue, since March 2017 to be about 2 lbs weight loss per week without any added activity. &lt;/p&gt;
+
+&lt;p&gt; As of Jan 31, 2018, I've been going to the gym on a MWF schedule. &lt;/p&gt;
+
+&lt;h2 id=&quot;routine&quot;&gt;Routine&lt;/h2&gt;
+
+&lt;p&gt; My routine consists of the following: &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chest Press&lt;/li&gt;
+  &lt;li&gt;Leg Press&lt;/li&gt;
+  &lt;li&gt;Shoulder Press&lt;/li&gt;
+  &lt;li&gt;Rowing&lt;/li&gt;
+  &lt;li&gt;Swimming Laps&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;data&quot;&gt;Data&lt;/h2&gt;
+
+&lt;h3 id=&quot;weight&quot;&gt;Weight&lt;/h3&gt;
+&lt;p&gt; This is my record of my weight from late 2016 onward. It's very sporadic until recently because I was experimenting with my diet and not having all that much luck --- which made me not want to look at the scale. &lt;/p&gt;
+
+&lt;iframe width=&quot;829.5&quot; height=&quot;512.9075&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=1876642144&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;leg-press&quot;&gt;Leg Press&lt;/h3&gt;
+
+&lt;p&gt; The following charts show you how I am stepping up my leg press weights, linearly (chart 1), and how I am structuring it (chart 2). In chart 2, every dip starts a new day with warmup sets, followed by the plateau with the actual goal sets for the day. &lt;/p&gt;
+
+&lt;h4 id=&quot;linear-progression&quot;&gt;Linear Progression&lt;/h4&gt;
+
+&lt;iframe width=&quot;600&quot; height=&quot;371&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=1976452892&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;goalstructure&quot;&gt;Goal/Structure&lt;/h4&gt;
+&lt;iframe width=&quot;600&quot; height=&quot;371&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=433492622&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;chest-press&quot;&gt;Chest Press&lt;/h3&gt;
+&lt;p&gt; The following charts show you how I am stepping up my chest press weights, linearly (chart 1), and how I am structuring it (chart 2). In chart 2, every dip starts a new day with warmup sets, followed by the plateau with the actual goal sets for the day. &lt;/p&gt;
+
+&lt;p&gt; The reason you see some missing dates is because some days I alternate and do a shoulder press.&lt;/p&gt;
+
+&lt;h4 id=&quot;linear-progression-1&quot;&gt;Linear Progression&lt;/h4&gt;
+&lt;iframe width=&quot;600&quot; height=&quot;371&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=2118030509&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;goalstructure-1&quot;&gt;Goal/Structure&lt;/h4&gt;
+&lt;iframe width=&quot;600&quot; height=&quot;371&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=1540353536&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;shoulder-press&quot;&gt;Shoulder Press&lt;/h3&gt;
+&lt;p&gt; The following charts show you how I am stepping up my shoulder press weights, linearly (chart 1), and how I am structuring it (chart 2). In chart 2, every dip starts a new day with warmup sets, followed by the plateau with the actual goal sets for the day. &lt;/p&gt;
+
+&lt;p&gt; The reason you see some missing dates is because some days I alternate and do a chest press.&lt;/p&gt;
+
+&lt;h4 id=&quot;linear-progression-2&quot;&gt;Linear Progression&lt;/h4&gt;
+&lt;iframe width=&quot;600&quot; height=&quot;371&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=1158701976&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;goalstructure-2&quot;&gt;Goal/Structure&lt;/h4&gt;
+&lt;iframe width=&quot;600&quot; height=&quot;371&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=1807702557&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;rowing&quot;&gt;Rowing&lt;/h3&gt;
+&lt;p&gt; To be completely honest, I've got no clue what I'm doing here -- I just know how to row and use it as a warmup. Currently, my goal has been to increase the total meters rowed by 100 every time, except I've now hit my limit, and I'm going to need to do it a bit more to improve. &lt;/p&gt;
+
+&lt;h4 id=&quot;chart&quot;&gt;Chart&lt;/h4&gt;
+&lt;iframe width=&quot;600&quot; height=&quot;371&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=123355676&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;swimming&quot;&gt;Swimming&lt;/h3&gt;
+
+&lt;p&gt; Much like Rowing, I don't really know how to structure these, so I started off gunning it and doing the best I can. I quickly found out, however, that after doing all of the rest of the exercises, my body gave out quickly with this method. So, I started putting breaks in between each lap. This took too long and didn't improve anything, so now I do two laps of the 25m pool and then a one minute break, followed by 2 more laps until my arms are too sore to continue. I'll keep doing this until things improve or I find a better way. &lt;/p&gt;
+
+&lt;h4 id=&quot;chart-1&quot;&gt;Chart&lt;/h4&gt;
+&lt;iframe width=&quot;600&quot; height=&quot;371&quot; seamless=&quot;&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vTFtPOrrGx-oVz5rNAx9hGam6Pz3eiuc6ZJXGcRjlgJkZ3blykmzfwEhJrB4wG3_qsGplb9xgMrZaIB/pubchart?oid=208050468&amp;amp;format=interactive&quot;&gt;&lt;/iframe&gt;</content><author><name>Matthew Dumas</name></author><category term="self improvement" /><category term="health" /><category term="fitness" /><category term="gym" /><category term="exercise" /><category term="stats" /><summary type="html">My Gym Stats</summary></entry><entry><title type="html">Forex Charting Demo (ReactJS)</title><link href="https://matthewjdumas.github.io//personal%20project/javascript/reactjs/2018/02/13/forex/" rel="alternate" type="text/html" title="Forex Charting Demo (ReactJS)" /><published>2018-02-13T00:00:00-05:00</published><updated>2018-02-13T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//personal%20project/javascript/reactjs/2018/02/13/forex</id><content type="html" xml:base="https://matthewjdumas.github.io//personal%20project/javascript/reactjs/2018/02/13/forex/">&lt;p&gt;Personal Project: Forex Charting Demo (ReactJS)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;project-name-forex-charting-demo-reactjs&quot;&gt;Project Name: Forex Charting Demo (ReactJS)&lt;/h1&gt;
+&lt;h3 id=&quot;status-inactive&quot;&gt;Status: inactive&lt;/h3&gt;
+&lt;h3 id=&quot;github-code-link&quot;&gt;&lt;a href=&quot;https://github.com/matthewjdumas/ForexDemo&quot;&gt;GitHub Code Link&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;github-demo-link&quot;&gt;&lt;a href=&quot;https://matthewjdumas.github.io/ForexDemo/&quot;&gt;GitHub Demo Link&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description:&lt;/h2&gt;
+
+&lt;p&gt; While looking into job openings recently, I noticed a trend toward web-scripting and frameworks like ReactJS. Having not programmed anything substantial in Javascript in a while, I decided to update my knowledge and put together a demo in a framework I had never used before. &lt;/p&gt;
+
+&lt;p&gt; This project represents about 9 hours of work updating my knowledge. It utilizes a RESTful service to obtain minute-by-minute data of the GBPUSD Forex symbol from 2000-2017. It pulls this data and charts it utilizing ReactJS. &lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dynamic Date Ranges&lt;/li&gt;
+  &lt;li&gt;Candle-Stick charts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examplesoutput-tests&quot;&gt;Examples/Output Tests&lt;/h2&gt;
+
+&lt;p&gt;[Need to add screenshot]&lt;/p&gt;</content><author><name>Matthew Dumas</name></author><category term="javascript" /><category term="demo" /><category term="reactjs" /><category term="forex" /><category term="stocks" /><category term="chart" /><summary type="html">Personal Project: Forex Charting Demo (ReactJS)</summary></entry><entry><title type="html">Industrial Camera Control</title><link href="https://matthewjdumas.github.io//personal%20project/c%23/automation/lab%20equipment/2018/02/13/cam/" rel="alternate" type="text/html" title="Industrial Camera Control" /><published>2018-02-13T00:00:00-05:00</published><updated>2018-02-13T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//personal%20project/c%23/automation/lab%20equipment/2018/02/13/cam</id><content type="html" xml:base="https://matthewjdumas.github.io//personal%20project/c%23/automation/lab%20equipment/2018/02/13/cam/">&lt;p&gt;Personal Project: Industrial Camera Controller&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;project-name-industrial-camera-control&quot;&gt;Project Name: Industrial Camera Control&lt;/h1&gt;
+&lt;h3 id=&quot;status-active---backburnered&quot;&gt;Status: Active - backburnered&lt;/h3&gt;
+&lt;h3 id=&quot;github-link&quot;&gt;&lt;a href=&quot;https://github.com/matthewjdumas/IndustrialCameraControl&quot;&gt;GitHub Link&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description:&lt;/h2&gt;
+
+&lt;p&gt; I have an X-Ray Machine that used an analog camera to observe the scanned image on the sensor plate. Recently, to replace the aging averaging box and live image box, I decided it was a wise idea to upgrade the camera. &lt;/p&gt;
+
+&lt;p&gt; The camera I chose to upgrade to is the YW500 Industrial camera. It utilizes a USB connector and the same lense as the old camera. &lt;/p&gt;
+
+&lt;p&gt; The application I made to control it is a C# .NET application that utilizes DirectShow and EMGU CV to capture a direct video stream from the camera.&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Live Camera Viewing&lt;/li&gt;
+  &lt;li&gt;Still Image Capture&lt;/li&gt;
+  &lt;li&gt;Video Capture&lt;/li&gt;
+  &lt;li&gt;Frame Averaging&lt;/li&gt;
+  &lt;li&gt;Filtering&lt;/li&gt;
+  &lt;li&gt;Color Adjustment (color/greyscale)&lt;/li&gt;
+  &lt;li&gt;Camera Settings Control&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;filters-available&quot;&gt;Filters Available:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Smooth&lt;/li&gt;
+  &lt;li&gt;Median&lt;/li&gt;
+  &lt;li&gt;Bilateral&lt;/li&gt;
+  &lt;li&gt;Gaussian&lt;/li&gt;
+  &lt;li&gt;Sobel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;camera-settings-available&quot;&gt;Camera Settings Available:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Resolution&lt;/li&gt;
+  &lt;li&gt;FPS&lt;/li&gt;
+  &lt;li&gt;Brightness&lt;/li&gt;
+  &lt;li&gt;Hue&lt;/li&gt;
+  &lt;li&gt;Saturation&lt;/li&gt;
+  &lt;li&gt;Contrast&lt;/li&gt;
+  &lt;li&gt;Iris Control&lt;/li&gt;
+  &lt;li&gt;Exposure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;compatibility&quot;&gt;Compatibility&lt;/h2&gt;
+
+&lt;p&gt; The project uses .NET 4.5 and is compatible with most windows computers. &lt;/p&gt;
+
+&lt;p&gt; The USB Camera compatibility is still in question, it appears to be compatible with most USB Cameras that utilize the general camera interface from Windows. &lt;/p&gt;
+
+&lt;h2 id=&quot;examplesoutput-tests&quot;&gt;Examples/Output Tests&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.google.com&quot;&gt;Add 1 image for each filter type, 1 for no filtering, color and greyscale, and a video&lt;/a&gt;&lt;/p&gt;</content><author><name>Matthew Dumas</name></author><category term="camera" /><category term=".net" /><category term="C#" /><category term="equipment" /><category term="xray" /><summary type="html">Personal Project: Industrial Camera Controller</summary></entry><entry><title type="html">Resume</title><link href="https://matthewjdumas.github.io//resume/2018/02/08/resume/" rel="alternate" type="text/html" title="Resume" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//resume/2018/02/08/resume</id><content type="html" xml:base="https://matthewjdumas.github.io//resume/2018/02/08/resume/">&lt;p&gt;This is my resume.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
@@ -81,7 +260,7 @@
 
 &lt;p&gt;Designed and implemented MVC architectures for use in mobile apps. Created mobile applications for web utilizing PhoneGap, HTML5/CSS3, Python, Android SDK, jQuery Mobile, and Responsive Design. Created business and marketing plans. Advised business owners on startup organization and business model generation. Setup and themed Drupal sites. Built GUIs using Tk/Tcl, PerlQt/QML, Qt. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/resume/work history/2018/02/08/Ripple/&quot;&gt;Click here for more information about this job.&lt;/a&gt;&lt;/p&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><summary type="html">This is my resume.</summary></entry><entry><title type="html">Ripple Computing, LLC</title><link href="http://localhost:4000/resume/work%20history/2018/02/08/Ripple/" rel="alternate" type="text/html" title="Ripple Computing, LLC" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>http://localhost:4000/resume/work%20history/2018/02/08/Ripple</id><content type="html" xml:base="http://localhost:4000/resume/work%20history/2018/02/08/Ripple/">&lt;p&gt;This post expands on my work at Ripple Computing.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/resume/work history/2018/02/08/Ripple/&quot;&gt;Click here for more information about this job.&lt;/a&gt;&lt;/p&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><summary type="html">This is my resume.</summary></entry><entry><title type="html">Ripple Computing, LLC</title><link href="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Ripple/" rel="alternate" type="text/html" title="Ripple Computing, LLC" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Ripple</id><content type="html" xml:base="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Ripple/">&lt;p&gt;This post expands on my work at Ripple Computing.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h1 id=&quot;ripple-computing-llc-2011-2018&quot;&gt;Ripple Computing, LLC (2011-2018)&lt;/h1&gt;
@@ -241,7 +420,7 @@
   &lt;li&gt;Bluetooth 2.1 protocols&lt;/li&gt;
   &lt;li&gt;GCODE&lt;/li&gt;
   &lt;li&gt;Javascript&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><category term="work history" /><summary type="html">This post expands on my work at Ripple Computing.</summary></entry><entry><title type="html">CERTON Software, Inc</title><link href="http://localhost:4000/resume/work%20history/2018/02/08/Certon/" rel="alternate" type="text/html" title="CERTON Software, Inc" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>http://localhost:4000/resume/work%20history/2018/02/08/Certon</id><content type="html" xml:base="http://localhost:4000/resume/work%20history/2018/02/08/Certon/">&lt;p&gt;This post expands on my work at CERTON.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><category term="work history" /><summary type="html">This post expands on my work at Ripple Computing.</summary></entry><entry><title type="html">CERTON Software, Inc</title><link href="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Certon/" rel="alternate" type="text/html" title="CERTON Software, Inc" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Certon</id><content type="html" xml:base="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Certon/">&lt;p&gt;This post expands on my work at CERTON.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h1 id=&quot;certon-software-inc-2011-2012&quot;&gt;CERTON Software, Inc. (2011-2012)&lt;/h1&gt;
@@ -322,7 +501,7 @@
   &lt;li&gt;IBM Rational DOORs&lt;/li&gt;
   &lt;li&gt;CAN Bus D&lt;/li&gt;
   &lt;li&gt;DXL&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><category term="work history" /><summary type="html">This post expands on my work at CERTON.</summary></entry><entry><title type="html">AuthenTec, Inc</title><link href="http://localhost:4000/resume/work%20history/2018/02/08/Authentec/" rel="alternate" type="text/html" title="AuthenTec, Inc" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>http://localhost:4000/resume/work%20history/2018/02/08/Authentec</id><content type="html" xml:base="http://localhost:4000/resume/work%20history/2018/02/08/Authentec/">&lt;p&gt;This post expands on my work at Authentec&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><category term="work history" /><summary type="html">This post expands on my work at CERTON.</summary></entry><entry><title type="html">AuthenTec, Inc</title><link href="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Authentec/" rel="alternate" type="text/html" title="AuthenTec, Inc" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Authentec</id><content type="html" xml:base="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Authentec/">&lt;p&gt;This post expands on my work at Authentec&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -429,7 +608,7 @@ of users to perform 200-300 swipes of several fingers over 7-10 fingerprint sens
   &lt;li&gt;AES 1710&lt;/li&gt;
   &lt;li&gt;AES 1810&lt;/li&gt;
   &lt;li&gt;AES 1910&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><category term="work history" /><summary type="html">This post expands on my work at Authentec</summary></entry><entry><title type="html">Amovius, LLC</title><link href="http://localhost:4000/resume/work%20history/2018/02/08/Amovius/" rel="alternate" type="text/html" title="Amovius, LLC" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>http://localhost:4000/resume/work%20history/2018/02/08/Amovius</id><content type="html" xml:base="http://localhost:4000/resume/work%20history/2018/02/08/Amovius/">&lt;p&gt;This post expands on my work at Amovius.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><category term="work history" /><summary type="html">This post expands on my work at Authentec</summary></entry><entry><title type="html">Amovius, LLC</title><link href="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Amovius/" rel="alternate" type="text/html" title="Amovius, LLC" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Amovius</id><content type="html" xml:base="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/Amovius/">&lt;p&gt;This post expands on my work at Amovius.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -519,7 +698,7 @@ of users to perform 200-300 swipes of several fingers over 7-10 fingerprint sens
   &lt;li&gt;Selenium&lt;/li&gt;
   &lt;li&gt;.NET 1.1&lt;/li&gt;
   &lt;li&gt;Visual Basic&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><category term="work history" /><summary type="html">This post expands on my work at Amovius.</summary></entry><entry><title type="html">Analysis, Integration, and Design, Inc</title><link href="http://localhost:4000/resume/work%20history/2018/02/08/AIDI/" rel="alternate" type="text/html" title="Analysis, Integration, and Design, Inc" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>http://localhost:4000/resume/work%20history/2018/02/08/AIDI</id><content type="html" xml:base="http://localhost:4000/resume/work%20history/2018/02/08/AIDI/">&lt;p&gt;This post expands on my work at AIDI.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Matthew Dumas</name></author><category term="resume" /><category term="work history" /><summary type="html">This post expands on my work at Amovius.</summary></entry><entry><title type="html">Analysis, Integration, and Design, Inc</title><link href="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/AIDI/" rel="alternate" type="text/html" title="Analysis, Integration, and Design, Inc" /><published>2018-02-08T00:00:00-05:00</published><updated>2018-02-08T00:00:00-05:00</updated><id>https://matthewjdumas.github.io//resume/work%20history/2018/02/08/AIDI</id><content type="html" xml:base="https://matthewjdumas.github.io//resume/work%20history/2018/02/08/AIDI/">&lt;p&gt;This post expands on my work at AIDI.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h1 id=&quot;analysis-integration-design-inc-2013&quot;&gt;Analysis Integration Design, INC (2013)&lt;/h1&gt;

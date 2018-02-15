@@ -2,6 +2,317 @@
 <search>
   
     <entry>
+      <title>Tektronix TVS-645 Waveform Analyzer Interface</title>
+      <url>/personal%20project/vee%20student%209.3/automation/lab%20equipment/2018/02/13/tvs645/</url>
+      <content type="text">Personal Project: Tektronix TVS-645 Waveform Analyzer Interface
+
+
+Project Name: Tektronix TVS-645 Waveform Analyzer Interface
+Status: inactive
+GitHub Link
+
+Description:
+
+ I have a TVS645 Waveform Analyzer that's a VXI card. In order to run it without the original interface (which I do not have), I needed to come up with a solution to handle all of the GPIB commands.
+
+In order to get it running quickly, I utilized Vee Student 9.3, a visual programming language, like LabView, which has very good hardware compatibility.
+
+ The front interface is about 75% feature-complete. However, it's usable enough for me to do nearly anything I need to do. As I need other, more advanced features, I add them to the VEE. In the future, I may migrate this to LabView or C#. 
+
+Features
+
+  Waveform capture
+  Waveform Math
+  Multiple Probe Capture
+  GPIB/488.2 Command processing
+  USB-to-GPIB Agilent controls
+
+
+Examples/Output Tests
+
+[Need to add front end images and block diagram images, video too maybe]
+</content>
+      <categories>
+        
+          <category> personal project </category>
+        
+          <category> VEE Student 9.3 </category>
+        
+          <category> automation </category>
+        
+          <category> lab equipment </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> camera </tag>
+        
+          <tag> .net </tag>
+        
+          <tag> Vee Student </tag>
+        
+          <tag> Vee Pro </tag>
+        
+          <tag> equipment </tag>
+        
+          <tag> xray </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title>Health Improvement Initiative</title>
+      <url>/self%20improvement/gym/health/fitness/2018/02/13/si-gym/</url>
+      <content type="text">My Gym Stats
+
+
+Self-Improvement: Gym Routine
+Status: Active
+
+Description:
+
+ I'm actively trying to be better than I was yesterday. For that reason I've taken up a gym routine with the end goal of losing weight and building some muscle.
+
+ Since Feb 2017, I've been attempting to lose weight, and I systematically experimented with different foods/meal plans to get to the best possible results for me. Those results continue, since March 2017 to be about 2 lbs weight loss per week without any added activity. 
+
+ As of Jan 31, 2018, I've been going to the gym on a MWF schedule. 
+
+Routine
+
+ My routine consists of the following: 
+
+  Chest Press
+  Leg Press
+  Shoulder Press
+  Rowing
+  Swimming Laps
+
+
+Data
+
+Weight
+ This is my record of my weight from late 2016 onward. It's very sporadic until recently because I was experimenting with my diet and not having all that much luck --- which made me not want to look at the scale. 
+
+
+
+Leg Press
+
+ The following charts show you how I am stepping up my leg press weights, linearly (chart 1), and how I am structuring it (chart 2). In chart 2, every dip starts a new day with warmup sets, followed by the plateau with the actual goal sets for the day. 
+
+Linear Progression
+
+
+
+Goal/Structure
+
+
+Chest Press
+ The following charts show you how I am stepping up my chest press weights, linearly (chart 1), and how I am structuring it (chart 2). In chart 2, every dip starts a new day with warmup sets, followed by the plateau with the actual goal sets for the day. 
+
+ The reason you see some missing dates is because some days I alternate and do a shoulder press.
+
+Linear Progression
+
+
+Goal/Structure
+
+
+Shoulder Press
+ The following charts show you how I am stepping up my shoulder press weights, linearly (chart 1), and how I am structuring it (chart 2). In chart 2, every dip starts a new day with warmup sets, followed by the plateau with the actual goal sets for the day. 
+
+ The reason you see some missing dates is because some days I alternate and do a chest press.
+
+Linear Progression
+
+
+Goal/Structure
+
+
+Rowing
+ To be completely honest, I've got no clue what I'm doing here -- I just know how to row and use it as a warmup. Currently, my goal has been to increase the total meters rowed by 100 every time, except I've now hit my limit, and I'm going to need to do it a bit more to improve. 
+
+Chart
+
+
+Swimming
+
+ Much like Rowing, I don't really know how to structure these, so I started off gunning it and doing the best I can. I quickly found out, however, that after doing all of the rest of the exercises, my body gave out quickly with this method. So, I started putting breaks in between each lap. This took too long and didn't improve anything, so now I do two laps of the 25m pool and then a one minute break, followed by 2 more laps until my arms are too sore to continue. I'll keep doing this until things improve or I find a better way. 
+
+Chart
+
+</content>
+      <categories>
+        
+          <category> self improvement </category>
+        
+          <category> gym </category>
+        
+          <category> health </category>
+        
+          <category> fitness </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> self improvement </tag>
+        
+          <tag> health </tag>
+        
+          <tag> fitness </tag>
+        
+          <tag> gym </tag>
+        
+          <tag> exercise </tag>
+        
+          <tag> stats </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title>Forex Charting Demo (ReactJS)</title>
+      <url>/personal%20project/javascript/reactjs/2018/02/13/forex/</url>
+      <content type="text">Personal Project: Forex Charting Demo (ReactJS)
+
+
+Project Name: Forex Charting Demo (ReactJS)
+Status: inactive
+GitHub Code Link
+GitHub Demo Link
+
+Description:
+
+ While looking into job openings recently, I noticed a trend toward web-scripting and frameworks like ReactJS. Having not programmed anything substantial in Javascript in a while, I decided to update my knowledge and put together a demo in a framework I had never used before. 
+
+ This project represents about 9 hours of work updating my knowledge. It utilizes a RESTful service to obtain minute-by-minute data of the GBPUSD Forex symbol from 2000-2017. It pulls this data and charts it utilizing ReactJS. 
+
+Features
+
+  Dynamic Date Ranges
+  Candle-Stick charts
+
+
+Examples/Output Tests
+
+[Need to add screenshot]
+</content>
+      <categories>
+        
+          <category> personal project </category>
+        
+          <category> javascript </category>
+        
+          <category> ReactJS </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> javascript </tag>
+        
+          <tag> demo </tag>
+        
+          <tag> reactjs </tag>
+        
+          <tag> forex </tag>
+        
+          <tag> stocks </tag>
+        
+          <tag> chart </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
+      <title>Industrial Camera Control</title>
+      <url>/personal%20project/c%23/automation/lab%20equipment/2018/02/13/cam/</url>
+      <content type="text">Personal Project: Industrial Camera Controller
+
+
+Project Name: Industrial Camera Control
+Status: Active - backburnered
+GitHub Link
+
+Description:
+
+ I have an X-Ray Machine that used an analog camera to observe the scanned image on the sensor plate. Recently, to replace the aging averaging box and live image box, I decided it was a wise idea to upgrade the camera. 
+
+ The camera I chose to upgrade to is the YW500 Industrial camera. It utilizes a USB connector and the same lense as the old camera. 
+
+ The application I made to control it is a C# .NET application that utilizes DirectShow and EMGU CV to capture a direct video stream from the camera.
+
+Features
+
+  Live Camera Viewing
+  Still Image Capture
+  Video Capture
+  Frame Averaging
+  Filtering
+  Color Adjustment (color/greyscale)
+  Camera Settings Control
+
+
+Filters Available:
+
+  Smooth
+  Median
+  Bilateral
+  Gaussian
+  Sobel
+
+
+Camera Settings Available:
+
+  Resolution
+  FPS
+  Brightness
+  Hue
+  Saturation
+  Contrast
+  Iris Control
+  Exposure
+
+
+Compatibility
+
+ The project uses .NET 4.5 and is compatible with most windows computers. 
+
+ The USB Camera compatibility is still in question, it appears to be compatible with most USB Cameras that utilize the general camera interface from Windows. 
+
+Examples/Output Tests
+
+Add 1 image for each filter type, 1 for no filtering, color and greyscale, and a video
+</content>
+      <categories>
+        
+          <category> personal project </category>
+        
+          <category> C# </category>
+        
+          <category> automation </category>
+        
+          <category> lab equipment </category>
+        
+      </categories>
+      <tags>
+        
+          <tag> camera </tag>
+        
+          <tag> .net </tag>
+        
+          <tag> C# </tag>
+        
+          <tag> equipment </tag>
+        
+          <tag> xray </tag>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
       <title>Resume</title>
       <url>/resume/2018/02/08/resume/</url>
       <content type="text">This is my resume.
